@@ -28,3 +28,5 @@ Mobility and delivery platforms should be analyzed as local demand aggregation a
 - `regulation.md` — labor, transport, marketplace and local regulatory risks.
 - `reusable_frameworks.md` — analytical frameworks reused across companies.
 - `open_questions.md` — sector-level questions requiring follow-up.
+- `research_backlog.md` — executable sector-level research queue.
+- `company_reuse_map.md` — what should be reused versus company-specific.

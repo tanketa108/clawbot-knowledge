@@ -7,3 +7,8 @@ See `research_bank/companies/UBER/questions.md`.
 ## Mobility & Delivery sector
 
 See `research_bank/sectors/mobility_delivery/open_questions.md`.
+
+## Research backlogs
+
+- `research_bank/companies/UBER/research_backlog.md`
+- `research_bank/sectors/mobility_delivery/research_backlog.md`

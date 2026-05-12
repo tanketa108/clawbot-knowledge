@@ -19,6 +19,8 @@ Uber is best understood as a local demand aggregation and movement marketplace, 
 - `questions.md` — company-specific open questions.
 - `evidence_log.md` — evidence supporting or challenging the thesis.
 - `changelog.md` — thesis history.
+- `coverage_state.md` — current underwriting status and guardrails.
+- `research_backlog.md` — executable research queue.
 - `updates/` — quarterly/event updates.
 - `sources/` — filings, transcripts, articles and raw source documents.
 
