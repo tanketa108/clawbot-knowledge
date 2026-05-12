@@ -4,7 +4,7 @@
 
 - Coverage type: pilot company for Clawbot Knowledge Bank.
 - Thesis status: strategic thesis drafted, financial underwriting incomplete.
-- Evidence status: initial evidence log created from user-provided memo; official source verification pending.
+- Evidence status: Q1 2026 official earnings release and 10-Q collected from SEC EDGAR; initial Q1 bridge completed; transcript-level diagnosis pending.
 - Valuation status: not yet underwritten.
 
 ## Current thesis confidence
@@ -16,7 +16,7 @@
 
 ## Next best action
 
-Verify Q1 2026 results against official Uber sources and build a bookings-to-revenue monetization bridge for Mobility.
+Use the Q1 2026 10-Q and earnings call transcript to explain Mobility revenue/Gross Bookings compression.
 
 ## Coverage guardrails
 

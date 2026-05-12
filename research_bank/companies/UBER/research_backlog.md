@@ -4,10 +4,11 @@ This file turns open questions into executable research tasks. Each task should 
 
 ## Priority 1 — Q1 2026 monetization bridge
 
+- **Status:** in progress — official earnings release collected via SEC 8-K; initial bridge completed in `updates/2026-Q1-results.md`. Remaining work: transcript and 10-Q explanation of business model changes.
 - **Question:** Why did strong bookings/trips not translate into equally strong Mobility revenue growth?
 - **Hypotheses:** mix shift, pricing, incentives, FX, geography, product mix, accounting/timing, competitive pressure.
 - **Inputs needed:** official Q1 2026 release, 10-Q, earnings call transcript, segment revenue/bookings data, management commentary.
-- **Output:** `updates/2026-Q1-results.md` revised with verified source data + evidence-log item.
+- **Output:** `updates/2026-Q1-results.md` revised with verified source data + evidence-log item. Initial output complete; transcript-level diagnosis pending.
 - **Decision impact:** determines whether Q1 is noise or early evidence of Mobility monetization pressure.
 
 ## Priority 2 — Uber One incrementality
