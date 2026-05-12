@@ -1,0 +1,191 @@
+Aptos;Aptos Display;
+
+Uber (UBER) — Tesis para Comité de Inversiones
+
+Fecha:2026-05-06
+
+Tipo de documento:memo para comité de inversiones
+
+Estado:versión final de trabajo
+
+Tesis de inversión
+
+Uber debe analizarse como una plataforma de agregación de demanda y coordinación local de red en movilidad y delivery, y no como una compañía convencional de ride-hailing.
+
+El activo central no son los vehículos, la mano de obra ni la infraestructura física. Es la capacidad de Uber para atraer y retener demanda final, concentrar liquidez local, optimizar algorítmicamente el matching, el pricing y la utilización, y monetizar esa base de demanda a través de varias superficies.
+
+La tesis larga descansa sobre cuatro pilares:
+
+1. Mobility es un activo core de alta calidad, con recurrencia, utilidad clara y ventajas plausibles de red local.
+
+2. Delivery profundiza el engagement y la monetización, aunque sus economics standalone sean estructuralmente de menor calidad que los de Mobility.
+
+3. Uber One puede aumentar retención, frecuencia y share of wallet en toda la plataforma.
+
+4. Existe optionalidad en ads, verticales adyacentes y AV, siempre que Uber conserve el control de la demanda y de la interfaz con el cliente.
+
+El punto analítico clave es que Uber puede ser mejor negocio de lo que sugiere una lectura superficial de app de ride-share, pero esa conclusión solo importa si el moat es duradero, económicamente productivo y no está ya completamente recogido en precio.
+
+Por qué importa el negocio
+
+La mejor forma de entender Uber es como un marketplace del movimiento.
+
+Uber coordina oferta y demanda en categorías donde la experiencia del usuario es muy sensible a la disponibilidad, el tiempo de respuesta, la fiabilidad, la facilidad de pago y la consistencia operativa.
+
+Este marco unifica Mobility, Delivery, Uber One y, potencialmente, publicidad o servicios adyacentes bajo una misma lógica económica. La pregunta relevante no es si Uber posee activos, sino si controla la capa de demanda con suficiente fuerza como para crear un bucle local de refuerzo:
+
+más demanda -> más oferta -> mejor ETA y disponibilidad -> mejor conversión y frecuencia -> más demanda
+
+Fortalezas clave del caso
+
+1. Control de la demanda
+
+En las plataformas transaccionales, quien controla la demanda final suele capturar una parte desproporcionada del valor. La posición estratégica de Uber comienza en el hecho de que los usuarios abren la app para resolver necesidades frecuentes, inmediatas y del mundo real.
+
+Eso importa porque el control de la demanda puede sostener un menor CAC incremental, mayor frecuencia de uso, mejor cross-sell, economics de membresía más valiosos y mayor monetización con el tiempo.
+
+2. Densidad local como el moat más creíble
+
+El moat de Uber, si existe, no debe describirse vagamente como escala global. Debe definirse con precisión como densidad local traducida en mejores resultados de servicio.
+
+Si Uber puede ofrecer de forma consistente menores tiempos de espera, mayor disponibilidad, mejor fiabilidad de ejecución y cobertura geográfica/horaria más amplia, entonces su ventaja se observa en la experiencia del usuario y no solo en gráficos de cuota de mercado.
+
+3. Arquitectura multiproducto
+
+El valor estratégico de Delivery puede estar infravalorado si se analiza solo como negocio standalone de margen. Incluso si Delivery es de menor calidad estructural que Mobility, puede crear mucho valor si aumenta la frecuencia total de la app, refuerza Uber One, reduce el CAC incremental, eleva la monetización por usuario activo y profundiza la formación de hábito.
+
+Evaluación por segmentos
+
+Mobility
+
+Mobility es el centro de gravedad de la tesis y el activo de mayor calidad de la cartera. Ofrece utilidad clara para el usuario, uso repetido, beneficios de liquidez local y una experiencia de servicio muy influida por ETA y fiabilidad.
+
+Visión para comité: Mobility es la parte más defendible del caso y debe anclar toda la tesis de inversión.
+
+Delivery
+
+Delivery es estratégicamente importante, pero analíticamente peligroso si se trata con demasiada generosidad. Incrementa puntos de contacto con el usuario, amplía casos de uso, puede fortalecer la membresía y elevar la monetización del ecosistema, pero la competencia sigue siendo intensa y la durabilidad del margen está menos demostrada.
+
+Visión para comité: Delivery fortalece el caso de ecosistema, pero no debe usarse como sustituto laxo de prueba empírica.
+
+Freight
+
+Freight no parece central en la tesis maestra.
+
+Visión para comité: tratar Freight como optionality y no como pilar de underwriting.
+
+Uber One
+
+Uber One puede ser uno de los elementos más importantes e infravalorados del caso. Si funciona, puede mejorar la retención, aumentar la frecuencia de uso, elevar el share of wallet, reducir la sensibilidad al precio por transacción y crear vínculos económicos más fuertes entre Mobility y Delivery.
+
+La cuestión crítica no es si Uber One crece, sino si crea valor incremental en vez de simplemente subvencionar demanda que ya existiría.
+
+Optionalidad
+
+Publicidad: potencialmente una capa relevante de alto margen si escala el engagement.
+
+Verticales adyacentes: solo crean valor si aprovechan la red existente y profundizan el engagement sin añadir complejidad desproporcionada.
+
+AV: la pregunta clave es quién posee la relación con el cliente y la interfaz de demanda.
+
+Riesgos clave
+
+1. Riesgo regulatorio y laboral.
+
+2. Riesgo competitivo.
+
+3. Riesgo de sobreinterpretar Delivery.
+
+4. Riesgo de complejidad.
+
+5. Riesgo de valoración.
+
+Qué añade materialmente la tesis externa
+
+La tesis externa compartida en este hilo es útil porque mejora el marco conceptual en tres dimensiones: reencuadra correctamente Uber como plataforma de movimiento, afina la discusión del moat alrededor de densidad local, liquidez y ETA, y refuerza la lectura multiproducto de Mobility + Delivery + Uber One.
+
+Su limitación también es clara: mejora más la narrativa estratégica que la prueba financiera.
+
+Qué debe validarse antes de elevar convicción
+
+1. Cohortes y retención de Uber One.
+
+2. Unit economics de Delivery.
+
+3. Relación entre densidad local, ETA y resultados de cuota.
+
+4. Sostenibilidad de take rates.
+
+5. Sensibilidad regulatoria bajo escenarios adversos.
+
+6. Si Freight crea valor estratégico o distracción directiva.
+
+7. Valoración bajo marcos bear, base y bull.
+
+Resultados Q1 2026 — lectura ampliada e implicaciones para la tesis
+
+El informe original era deliberadamente estructural y no incorporaba aún una lectura extensa de los resultados publicados hoy. La lectura actualizada es que el quarter fue mixto en titular, pero razonablemente positivo para la tesis.
+
+Lo más importante del quarter: bookings fuertes, viajes fuertes, Delivery muy sólido, guidance de bookings por encima de consenso y una señal clara de que el debate central pasa de ¿hay demanda? a ¿qué calidad tiene la monetización por segmento?.
+
+- Revenue aproximado de $13.2bn, +14% YoY, pero ligeramente por debajo de consenso.
+
+- Non-GAAP EPS aproximado de $0.72, ligeramente por encima de consenso.
+
+- GAAP net income afectado por un impacto de aproximadamente $1.5bn por revalorización de inversiones.
+
+- Gross bookings de aproximadamente $53.7bn, por encima de expectativas.
+
+- Trips de aproximadamente 3.6bn.
+
+- Delivery revenue de aproximadamente $5.07bn, +34% YoY.
+
+- Mobility revenue de aproximadamente $6.8bn, +5% YoY.
+
+- Guidance de Q2 en gross bookings de aproximadamente $56.25bn-$57.75bn, por encima de consenso.
+
+Lectura por segmentos:
+
+Mobility: sigue siendo el activo central, pero el quarter introduce una señal importante: actividad fuerte no se tradujo en la misma fortaleza de revenue. Eso abre preguntas sobre monetización, mix, pricing, incentivos o sensibilidad macro/fuel.
+
+Delivery: es lo que más refuerza la tesis de ecosistema. Su fuerza en revenue y crecimiento apoya que ya no debe tratarse como adyacencia menor, aunque todavía no demuestra por sí sola economics estructuralmente excelentes.
+
+Freight: sigue sin ser driver central de la tesis.
+
+Qué refuerza la tesis: bookings por encima de expectativas, trips elevados, Delivery fuerte, guidance buena, y una imagen de demanda/plataforma que sigue sana.
+
+Qué debilita o exige más trabajo: revenue miss, crecimiento modesto de Mobility revenue, ruido contable en beneficio GAAP, y el riesgo de depender demasiado de Delivery para sostener la narrativa de crecimiento.
+
+Tema clave revelado por el quarter: la actividad estuvo bien; la monetización fue desigual. Eso es importante porque, a este nivel de madurez, el debate ya no es si Uber tiene escala, sino cuán duradera y rentable es esa escala por segmento.
+
+Riesgos revelados por el quarter: conversión de actividad a revenue, posible sobrelectura de Delivery, posible fase de monetización menos limpia en Mobility, distorsión GAAP por inversiones, e inflación de la narrativa de ecosistema sin suficiente validación económica.
+
+Preguntas abiertas para seguimiento: 
+
+1. ¿Qué explica exactamente la debilidad relativa de Mobility revenue?
+
+2. ¿Bookings fuertes y trips fuertes implican presión de monetización o solo mezcla/timing?
+
+3. ¿Cuánto de la fortaleza de Delivery es estructural y cuánto promocional?
+
+4. ¿La tesis está pasando a depender demasiado de Delivery para sostener crecimiento consolidado?
+
+5. ¿Qué se está viendo realmente en Uber One a nivel de cohortes y economics?
+
+6. ¿Cómo debe normalizarse la lectura de beneficios tras el impacto de inversiones?
+
+7. ¿La guía fuerte de Q2 anticipa mejor monetización o solo continuidad de volumen?
+
+Conclusión actualizada: el quarter es favorable para la tesis estratégica, pero también la vuelve más exigente. Refuerza que Uber es una plataforma de demanda real y de ecosistema cada vez más profundo, pero obliga a mirar con más dureza la calidad de monetización de Mobility. No rompe la tesis; la desplaza hacia preguntas más maduras y más importantes.
+
+Conclusión para comité
+
+Uber se entiende mejor como una plataforma local de demanda con características de red, amplitud de monetización y optionalidad creíble de ecosistema.
+
+La parte más fuerte del caso es real: Mobility parece un activo de calidad, el framing de marketplace del movimiento es direccionalmente correcto y la capa de ecosistema puede estar infravalorada.
+
+La parte frágil también es real: Delivery exige soporte empírico más duro, la regulación sigue siendo un riesgo central y la distinción entre buena compañía y buena inversión dependerá del precio y de la prueba.
+
+Veredicto: prometedora y digna de comité como marco de tesis; todavía no completamente underwritten como caso de alta convicción sin validación adicional en economics, regulación y valoración.
+
+Archivo asociado en Knowledge: la lectura estructural y la actualización de resultados también se han integrado en las notas de UBER dentro de Knowledge para que la tesis siga viva y no quede como memo aislado.

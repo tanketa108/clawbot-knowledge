@@ -1,0 +1,94 @@
+# Model_UBER_v3_3.xlsx Summary
+
+## Sheets
+- Resumen
+- Hipotesis
+- Historico
+- Modelo
+- DuPont_WC
+- Reverse_DCF
+- Fuentes
+
+## Shared strings: 681
+
+First notable strings:
+- UBER  /  CUADRO DE MANDO  -  RESUMEN EJECUTIVO Y SNAPSHOT
+- LEYENDA:
+- AZUL+AMARILLO
+- Input hardcoded (editable)
+- AMARILLO FUERTE
+- Input clave (driver de sensibilidad)
+- NEGRO
+- Formula (calculado)
+- VERDE
+- Link a otra hoja
+- VERDE CLARO
+- Resultado / output
+- SNAPSHOT  -  resumen ejecutivo del libro completo
+- STOCK / MERCADO
+- VALORACION DCF
+- OPERATIONS (FY25)
+- QUALITY / RETURNS
+- Spot ($)
+- DCF mediana
+- Revenue 2025
+- ROIC operativo'25
+- Market Cap ($M)
+- DCF promedio
+- EBIT 2025
+- EBIT margin '25
+- Enterprise Value
+- Upside vs spot
+- Adj EBITDA 2025
+- FCF margin '25
+- 52w range ($)
+- $68.46 - $101.99
+- EV/EBITDA NTM
+- FCF 2025
+- NWC 2025 ($M)
+- Acciones dil. (k)
+- EV/EBIT NTM
+- Q1'26 Revenue
+- Insurance res. '25
+- Tesis:
+- "Scale Efficiency over Monetization Aggression" - depende de Mobility margin, no de take-rate heroics
+- Critico Q1'26:
+- Take rate Mobility paso 30.7% -> 25.8% por cambio UK (merchant->agency); ~9pp del cambio es contable
+- 1. Q1 2026 HIGHLIGHTS  (8-K filed May 6, 2026)
+- Total Gross Bookings
+- +18% YoY cc
+- Total Revenue
+- +21% YoY cc
+- GAAP Operating Income
+- +105% YoY
+- Adj EBITDA
+- +24% YoY
+- Non-GAAP Operating Income
+- Nueva metrica primaria
+- Free Cash Flow
+- +44% YoY
+- Mobility - Gross Bookings
+- +25% YoY cc
+- Mobility - Revenue
+- +5% YoY (UK accounting -9pp)
+- Mobility - Segment Op Income
+- +28% YoY
+- Delivery - Gross Bookings
+- +23% YoY cc
+- Delivery - Revenue
+- +25% YoY
+- Delivery - Segment Op Income
+- +43% YoY
+- Freight - Revenue
+- +6% YoY
+- Buybacks (capital returned)
+- $20B program total
+- 2. HISTORIA FINANCIERA  (5 anos)
+- 2021A
+- 2022A
+- 2023A
+- 2024A
+- 2025A
+- Revenue ($M)
+- YoY %
+- Adj EBITDA ($M)
